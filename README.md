@@ -32,15 +32,17 @@ npm i
 
 Running this application will first display all of the items available for sale. The ID, name, and prices of products for sale are all included. Then, it will prompt the user with two questions:
 
-<img width="564" alt="screen shot 2018-12-14 at 10 31 23 pm" src="https://user-images.githubusercontent.com/40437294/50040072-729ea180-fff1-11e8-857e-f88e31749d1b.png">
+<img width="519" alt="screen shot 2018-12-15 at 4 39 04 pm" src="https://user-images.githubusercontent.com/40437294/50048708-3e29f480-0088-11e9-9a00-9d82e0415a7d.png">
 
 ---
 
-If the amount of the product selected is in stock, the user will receive back the total cost of their purchase.The product info will be shown 
+If the amount of the product selected is in stock, the user will receive back the total cost of their purchase. Additionally, the product information: ID, name, department, price and stock quantity will be upadated to in our database, and shown.
 
-<img width="520" alt="screen shot 2018-12-14 at 10 31 58 pm" src="https://user-images.githubusercontent.com/40437294/50040332-446f9080-fff6-11e8-9d3a-3272c5a2037f.png">
+<img width="520" alt="screen shot 2018-12-15 at 5 40 36 pm" src="https://user-images.githubusercontent.com/40437294/50049082-dc21bd00-0090-11e9-8d59-46e19d711663.png">
 
 If the product is not in stock, the user will receive a 
+
+<img width="521" alt="screen shot 2018-12-14 at 10 36 32 pm" src="https://user-images.githubusercontent.com/40437294/50048839-9bbf4080-008a-11e9-92ed-b66c660b8be9.png">
 
 ---
 If the user does not enter valid informaiton, an error message will be returned. 
